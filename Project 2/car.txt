@@ -1,0 +1,5 @@
+2014 Toyota Tacoma, $115.12 per day, Available: false 
+2015 Ford Fusion, $90.89 per day, Available: true 
+2009 Dodge Neon, $45.25 per day, Available: false 
+2015 Ford F150, $112.83 per day, Available: true 
+2016 Subaru Outback, $71.27 per day, Available: true 
