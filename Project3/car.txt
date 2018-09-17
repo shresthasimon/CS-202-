@@ -1,0 +1,8 @@
+2014 Toyota Tacoma, $115.12per day, Available: true 
+2009 Dodge Neon, $45.25per day, Available: true 
+2011 Toyota Rav4, $65.02per day, Available: true 
+2012 Mazda CX5, $86.75per day, Available: true 
+2015 Ford F150, $112.83per day, Available: true 
+2010 Toyota Corolla, $50.36per day, Available: true 
+2009 Dodge Charger, $55.36per day, Available: true 
+2010 Nissan Maxima, $51.68per day, Available: true 
